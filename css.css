@@ -3,3 +3,19 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.head{
+    display: flex;
+
+}
+
+.scroll {
+    flex: 1;
+    background-color: aquamarine;
+    overflow: scroll;
+    height: 100vh;
+}
+
+.other{
+    flex: 1;
+}
